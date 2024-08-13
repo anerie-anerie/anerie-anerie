@@ -1,4 +1,4 @@
-- 👋 Hi, I’m anerie!
+👋 Hi, I’m anerie!
 - 👀 I’m interested in learning more into the world of computer science, and exploring how to create tools that can make a positive impact!
 - 🌱 I’m currently learning how to use react and exploring front-end!
 - 😄 Pronouns: any pronouns
