@@ -1,7 +1,7 @@
 👋 Hi, I’m anerie!
 - 👀 I’m interested in learning more into the world of computer science, and exploring how to create tools that can make a positive impact!
 - 🌱 I’m currently learning how to use react and exploring front-end!
-- 😄 Pronouns: any pronouns
+- 🌈 Pronouns: any pronouns
 - Check out my projects so far :)
 
 Connect with me:
