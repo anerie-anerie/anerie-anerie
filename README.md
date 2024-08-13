@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning how to use react and exploring front-end!
 - 😄 Pronouns: any pronouns
 - Check out my projects so far :)
+
+Connect with me:
 - Devpost: https://devpost.com/aneriep?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
-- Linkedin: 
+- Linkedin: https://www.linkedin.com/in/anerie-patel-962a75275/
 
 <!---
 anerie-anerie/anerie-anerie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
